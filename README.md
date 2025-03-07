@@ -1,5 +1,4 @@
 ![image_alt](https://github.com/lukietee/hackne.ai/blob/2ada34c3d90dadf8538dd3a03bbc177937f2b34b/acne5%20(1).jpg)
-![image_alt](https://github.com/lukietee/hackne.ai/blob/2ada34c3d90dadf8538dd3a03bbc177937f2b34b/acne4%20(1).jpg)
 
 **Why hackne.ai?**
 
