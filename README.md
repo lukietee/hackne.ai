@@ -1,4 +1,5 @@
-![image_alt](https://github.com/lukietee/hackne.ai/blob/41e5066743ae7f1ec1f2a441c678e218b7616fe3/acne1%20(1).jpg)
+![image_alt](https://github.com/lukietee/hackne.ai/blob/2ada34c3d90dadf8538dd3a03bbc177937f2b34b/acne5%20(1).jpg)
+![image_alt](https://github.com/lukietee/hackne.ai/blob/2ada34c3d90dadf8538dd3a03bbc177937f2b34b/acne4%20(1).jpg)
 
 **Why hackne.ai?**
 
@@ -6,6 +7,7 @@ Acne is one of the most common skin conditions worldwide. In the United States, 
 
 hackne.ai is a solution for those who are struggling with acne and don't have immediate access to a dermatologist. After completing a survey and scanning their face through an advanced acne diagnosis machine learning model, hackne.ai recommends a complete Korean skincare routine tailored to the user's specific acne challenges, skin type, and skin sensitivity.
 
+![image_alt](https://github.com/lukietee/hackne.ai/blob/41e5066743ae7f1ec1f2a441c678e218b7616fe3/acne1%20(1).jpg)
 
 **Frontened and UI/UX**
 
