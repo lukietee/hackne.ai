@@ -1,4 +1,4 @@
-[2024 HackCC Winner] hackne.ai
+🏆 2024 HackCC 2nd Place Winner | hackne.ai
 
 DevPost: https://devpost.com/software/hackne-io
 
