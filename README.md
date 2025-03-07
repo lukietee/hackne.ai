@@ -12,6 +12,7 @@ hackne.ai is a solution for those who are struggling with acne and don't have im
 
 hackne.ai is made up of two components: the skin survey and the physical skin scan. All web pages were initially designed in Figma, a design tool used for both mobile and web app development. The web pages were then implemented in HTML, CSS for styling, and Flask (Python). In the skin survey, the user is prompted questions asking their gender, skin type, skin sensitivity, etc. The physical face scan prompts the user to upload a face scan of their acne. Both inputs from the skin survey and physical skin scan are used in the selection of skincare products.
 
+![image_alt](https://github.com/lukietee/hackne.ai/blob/d7d8437e6daa7d1513511ee76e9c9cee749bff29/acne3%20(1).jpg)
 
 **Backend**
 
