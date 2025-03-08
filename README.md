@@ -1,4 +1,4 @@
-🏆 2024 HackCC 2nd Place Winner | hackne.ai
+🏆 2024 HackCC 2nd Place Winner | hackne.ai - Where AI meets your AM/PM skincare routine
 
 DevPost: https://devpost.com/software/hackne-io
 
