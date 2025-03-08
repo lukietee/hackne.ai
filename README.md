@@ -28,3 +28,5 @@ Depending on the skin severity score the user receives, hackne.ai would recommen
 
 ![image_alt](https://github.com/lukietee/hackne.ai/blob/4dffa4bc7cd811320d05c3d059827900a71a3f61/AcneCredits%20(1).png)
 ![image_alt](https://github.com/lukietee/hackne.ai/blob/535dbfcce7d73fe4c83602037cf8c1145a9b1f07/acne7%20(1).jpg)
+
+hackne.ai at the 2024 HackCC Hackathon
