@@ -27,3 +27,4 @@ hackne.ai was trained using the Ultralytics YOLOv11 object classification model.
 Depending on the skin severity score the user receives, hackne.ai would recommend different products of different intensities. Those who are struggling more with acne may be recommended products that use active acne fighting ingredients such as benzoyl peroxide and salicylic acid, while lower skin severity scores would be recommended less intense products. hackne.ai recommends an AM/PM face wash, moisturizer, and sunscreen.
 
 ![image_alt](https://github.com/lukietee/hackne.ai/blob/4dffa4bc7cd811320d05c3d059827900a71a3f61/AcneCredits%20(1).png)
+![image_alt](https://github.com/lukietee/hackne.ai/blob/535dbfcce7d73fe4c83602037cf8c1145a9b1f07/acne7%20(1).jpg)
